@@ -1,0 +1,47 @@
+# Fortran编译中间文件
+*.mod
+*.o
+*.obj
+
+# 可执行文件
+*.exe
+*.out
+*.app
+
+# 编译输出目录
+build/
+dist/
+bin/
+
+# 编译器特定文件
+*.d
+*.dll
+*.so
+*.a
+*.lib
+
+# 调试文件
+*.pdb
+*.dbg
+
+# 备份文件
+*~
+*.bak
+*.backup
+
+# 临时文件
+*.tmp
+temp/
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
